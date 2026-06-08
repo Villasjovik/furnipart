@@ -1,0 +1,12 @@
+{
+  "svgPath": "/Users/lucasm4max/Desktop/Claude/operational/projekt/villa-sjovik/pitchar/furnipart/furnipart.svg",
+  "svgFilename": "furnipart.svg",
+  "brandColor": "#063545",
+  "brandColorHex": "0x063545",
+  "heroMaterialColor": "#F2EDE4",
+  "dominantDetected": "#063545",
+  "isLightLogo": false,
+  "material": "metal",
+  "note": "Furnipart wordmark 'furnipart' is a monochrome lowercase serif wordmark (staged white-on-transparent PNG, traced to a flat single-path SVG via furnipart-trace.mjs so Three.js SVGLoader can extrude it). Brand metadata color is Furnipart teal-petrol #063545. On the dark-green hero bg a teal logo reads dark-on-dark, so the 3D hero logo is rendered in cream #F2EDE4 (data-material=metal data-color=#F2EDE4) per the Ajax/Avantopool/Weltevree monochrome-dark-logo precedent — Villa Sjövik gold treatment. Villa Sjövik logo always gold. Canonical dark-green palette unchanged; teal only as metadata accent.",
+  "generatedAt": "2026-06-08T00:00:00.000Z"
+}
